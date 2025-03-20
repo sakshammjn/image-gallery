@@ -1,2 +1,2 @@
 # ImageGallery
-basic image gallery for you
+responsive image gallery using css
